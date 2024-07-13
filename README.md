@@ -20,20 +20,18 @@ Copy code
 ``
 https://github.com/yourusername/MyApp.git](https://github.com/LasithPerera/ReactNTask.git
 ``
+
 Navigate to the Project Directory
-
 bash
-
 Copy code
 
 ``
 cd MyApp
 ``
 
-Install Dependencies
+# Install Dependencies
 
 bash
-
 Copy code
 
 ``
@@ -47,9 +45,7 @@ Add your Firebase configuration to firebase.js.
 Run the App
 
 For Android:
-
 bash
-
 Copy code
 
 ``
@@ -57,9 +53,7 @@ npx react-native run-android
 ``
 
 For iOS:
-
 bash
-
 Copy code
 
 ``
