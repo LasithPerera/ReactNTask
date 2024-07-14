@@ -64,5 +64,6 @@ npx react-native run-ios
 Once installed, launch MyApp and explore its features:
 
 Sign Up / Sign In: Create a new account or log in with your existing credentials.
+
 Explore Features: Navigate through the app and discover all the functionalities available.
-Feedback: Share your thoughts and suggestions to help us improve.
+
