@@ -18,7 +18,7 @@ bash
 Copy code
 
 ``
-https://github.com/yourusername/MyApp.git](https://github.com/LasithPerera/ReactNTask.git
+https://github.com/LasithPerera/ReactNTask.git
 ``
 
 Navigate to the Project Directory
